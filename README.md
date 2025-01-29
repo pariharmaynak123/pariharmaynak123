@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @pariharmaynak123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here’s your updated GitHub bio with a professional and engaging touch:  
 
-<!---
-pariharmaynak123/pariharmaynak123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 Hi, I’m **Mayank Parihar** (@pariharmaynak123)  
+🎓 **B.Tech + MBA (Integrated) | 2nd Year Student**  
+💻 **Currently Learning:** C++, Java, Generative AI  
+🚀 **Interested in:** Software Development, AI, and Emerging Tech  
+💡 **Looking to Collaborate on:** Open-source projects, AI-based applications, and backend development  
+
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I love solving coding challenges and exploring AI-driven innovations!  
+
+---
+
